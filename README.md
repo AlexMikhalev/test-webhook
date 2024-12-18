@@ -1,3 +1,5 @@
 # test-webhook
 Repository to test webhooks
-This is repository to test webhooks, now checking if pull request works
+This is the repository to test webhooks. Now, checking if the pull request works.
+
+# Absolutely amazing new feature
